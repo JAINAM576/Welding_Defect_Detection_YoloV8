@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/jainam888/welding-defect-detection-yolov8-visuals
