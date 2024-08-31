@@ -1,0 +1,9 @@
+
+train: /kaggle/input/welding-defect-object-detection/The Welding Defect Dataset/The Welding Defect Dataset/train/images
+val: /kaggle/input/welding-defect-object-detection/The Welding Defect Dataset/The Welding Defect Dataset/valid/images
+test: /kaggle/input/welding-defect-object-detection/The Welding Defect Dataset/The Welding Defect Dataset/test/images
+
+nc: 3
+
+names: ['Bad Weld', 'Good Weld', 'Defect']
+
