@@ -65,6 +65,13 @@ Box Loss: 1.267
 Classification Loss: 1.155
 DFL Loss: 1.312
 
+- F1 CURVE
+![F1_curve](https://github.com/user-attachments/assets/90dff7a0-a1ac-46ab-bc57-27cf9c813316)
+- PRECISON - RECALL CURVE
+ ![PR_curve](https://github.com/user-attachments/assets/c2f90e3d-8842-41dd-8e18-1b1aa3588dbb)
+
+
+
 # Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
